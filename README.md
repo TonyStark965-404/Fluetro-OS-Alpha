@@ -1,8 +1,8 @@
-# Fluetro OS */(Alpha)/*
+# Fluetro OS *(Alpha)*
 
 A clean (kinda) customizable WebOS. Like my other project: Fluent New Tab, this is also inspired heavily by Microsoft Fluent Design System and macOS versions before Tahoe. 
 
-*/This is the very first version of Fluetro OS, the one that started it all, with everything including the README being the original ones (apart from these parts in Italic)/*
+*This is the very first version of Fluetro OS, the one that started it all, with everything including the README being the original ones (apart from these parts in Italic)*
 
 ## How does it look?
 
